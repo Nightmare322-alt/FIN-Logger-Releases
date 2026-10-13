@@ -1,8 +1,8 @@
 {
-  "version": "1.3.2",
-  "versionCode": 8,
-  "title": "FIN Logger v1.3.2",
-  "changelog": "FIN Logger v1.3.2\n\nStable signing, Telegram release bot, GitHub-only auto-updates, new launcher icon, accounts/loans/insights and onboarding improvements.",
-  "apkUrl": "https://github.com/Nightmare322-alt/FIN-Logger-Releases/releases/download/v1.3.2/FIN-Logger-1.3.2.apk",
-  "releaseUrl": "https://github.com/Nightmare322-alt/FIN-Logger-Releases/releases/tag/v1.3.2"
+  "version": "1.3.3",
+  "versionCode": 9,
+  "title": "FIN Logger v1.3.3",
+  "changelog": "FIN Logger v1.3.3\n\nCoin easter egg in developer contact section, Telegram support link, and version bump for signed auto-update testing.",
+  "apkUrl": "https://github.com/Nightmare322-alt/FIN-Logger-Releases/releases/download/v1.3.3/FIN-Logger-1.3.3.apk",
+  "releaseUrl": "https://github.com/Nightmare322-alt/FIN-Logger-Releases/releases/tag/v1.3.3"
 }
