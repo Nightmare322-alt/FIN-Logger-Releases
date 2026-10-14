@@ -1,8 +1,8 @@
 {
   "version": "1.3.4.1",
-  "versionCode": 11,
+  "versionCode": 12,
   "title": "FIN Logger v1.3.4.1",
-  "changelog": "FIN Logger v1.3.4.1\n\nRe-release the current patch as v1.3.4.1 with versionCode 11 so v1.3.4 installations detect it as a newer version. The next feature line will be 1.4.",
+  "changelog": "Fix FIN Logger icon on v1.3.4.1\n\nReplace the launcher artwork with the correctly cropped FIN Logger icon, inset it into Android's adaptive-icon safe zone, keep visible versionName 1.3.4.1, raise versionCode to 12, and make in-app update checks honor versionCode so existing 1.3.4.1 installs can receive the corrected build.",
   "apkUrl": "https://github.com/Nightmare322-alt/FIN-Logger-Releases/releases/download/v1.3.4.1/FIN-Logger-1.3.4.1.apk",
   "releaseUrl": "https://github.com/Nightmare322-alt/FIN-Logger-Releases/releases/tag/v1.3.4.1"
 }
