@@ -1,8 +1,8 @@
 {
-  "version": "1.3.4.1",
-  "versionCode": 13,
-  "title": "FIN Logger v1.3.4.1",
-  "changelog": "FIN Logger v1.3.4.1: clean icon rebuild\n\nRestore the updater to our previous v1.3.4.1 state and replace the broken adaptive launcher rendering with a padded composite using the requested FIN LOGGER artwork. Visible version stays 1.3.4.1; internal versionCode is 13 so it can install over the broken code-12 build.",
-  "apkUrl": "https://github.com/Nightmare322-alt/FIN-Logger-Releases/releases/download/v1.3.4.1/FIN-Logger-1.3.4.1.apk",
-  "releaseUrl": "https://github.com/Nightmare322-alt/FIN-Logger-Releases/releases/tag/v1.3.4.1"
+  "version": "1.4",
+  "versionCode": 14,
+  "title": "FIN Logger v1.4",
+  "changelog": "FIN Logger 1.4: fix test dependency",
+  "apkUrl": "https://github.com/Nightmare322-alt/FIN-Logger-Releases/releases/download/v1.4/FIN-Logger-1.4.apk",
+  "releaseUrl": "https://github.com/Nightmare322-alt/FIN-Logger-Releases/releases/tag/v1.4"
 }
