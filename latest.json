@@ -2,7 +2,7 @@
   "version": "1.4.2",
   "versionCode": 16,
   "title": "FIN Logger v1.4.2",
-  "changelog": "FIN Logger 1.4.2: optional income setup and ruble coin icon",
+  "changelog": "FIN Logger 1.4.2: ruble coin icon and optional regular income onboarding",
   "apkUrl": "https://github.com/Nightmare322-alt/FIN-Logger-Releases/releases/download/v1.4.2/FIN-Logger-1.4.2.apk",
   "releaseUrl": "https://github.com/Nightmare322-alt/FIN-Logger-Releases/releases/tag/v1.4.2"
 }
