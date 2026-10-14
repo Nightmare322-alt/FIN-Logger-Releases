@@ -1,8 +1,8 @@
 {
-  "version": "1.4.1",
-  "versionCode": 15,
-  "title": "FIN Logger v1.4.1",
-  "changelog": "FIN Logger 1.4.1: restore working launcher icon",
-  "apkUrl": "https://github.com/Nightmare322-alt/FIN-Logger-Releases/releases/download/v1.4.1/FIN-Logger-1.4.1.apk",
-  "releaseUrl": "https://github.com/Nightmare322-alt/FIN-Logger-Releases/releases/tag/v1.4.1"
+  "version": "1.4.2",
+  "versionCode": 16,
+  "title": "FIN Logger v1.4.2",
+  "changelog": "FIN Logger 1.4.2: optional income setup and ruble coin icon",
+  "apkUrl": "https://github.com/Nightmare322-alt/FIN-Logger-Releases/releases/download/v1.4.2/FIN-Logger-1.4.2.apk",
+  "releaseUrl": "https://github.com/Nightmare322-alt/FIN-Logger-Releases/releases/tag/v1.4.2"
 }
